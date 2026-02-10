@@ -1,3 +1,7 @@
+THIS REPOSITORY IS ONLY USED FOR Issues. The code lives somewhere else.
+
+
+
 # Sun Events (replace Sunrise App)
 
 Sun Events is an app the has several triggers to certain positions of the sun. It make use of suncalc from 'Vladimir Agafonkin'. The following triggers are possible:
